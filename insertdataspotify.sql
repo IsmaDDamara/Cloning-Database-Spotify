@@ -1,0 +1,4 @@
+-- Active: 1684000481785@@127.0.0.1@3306@spotify
+INSERT INTO artist (id, name, instagram, facebook, twitter, wikipedia, bio)
+VALUES  ('AR2', 'Sheila On 7', 'sheilaon7', , 'Sheila On 7', 'https://en.wikipedia.org/wiki/Sheila_on_7', 'Sheila on 7 adalah band rock pop dari Yogyakarta , Indonesia . Mereka beberapa kali berganti lineup sejak terbentuk pada 6 Mei 1996. Formasi pertama mereka terdiri dari Akhdiyat Duta Modjo (juga dikenal sebagai Duta, vokal ), Saktia "Sakti" Ari Seno ( gitar ), Eross Candra ( gitar ), Adam Muhammad Subarkah ( bass ) dan Anton Widiastanto ( drum ). Anton pergi pada tahun 2004 sementara Sakti pergi pada tahun 2006, meninggalkan lineup mereka saat ini tetapi dengan Brian Kresna Putro menggantikan Anton di drum sampai kepergiannya pada tahun 2022'),
+        ('AR3', )
